@@ -27,6 +27,7 @@ public class SampleCode {
 public static void BrowserName()
 {
   browser = "Chrome";
+	//browser is chrome
   
 }
 
